@@ -1,2 +1,2 @@
 # kuraltabanlisiniflandirma
-müsteri tahmini
+müsteri geliri tahmini
