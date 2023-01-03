@@ -1,0 +1,2 @@
+# kuraltabanlisiniflandirma
+müsteri tahmini
